@@ -12,10 +12,9 @@ I'm a third year undergraduate student from [School of Physics](https://en.physi
 
 I am very fortunate to be advised by [Prof. XIAO](https://faculty.ustc.edu.cn/xuxiaoye/zh_CN/index.htm) of XXX Lab from [School of Computer Science](https://cs.pku.edu.cn/), Peking University. I was advised by [Prof. XX](https://XXX.pku.edu.cn/) from [School of Computer Science](https://cs.pku.edu.cn/), Peking University.
 
-You can find my CV here: [XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
+You can find my CV here: [SHUQI LIU's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
 [Email](shuqi@mail.ustc.edu.cn) / [Wechat](../images/wechat.jpg) 
-————————————————
 
 A data-driven personal website
 ======
