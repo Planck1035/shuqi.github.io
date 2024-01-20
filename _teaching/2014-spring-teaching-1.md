@@ -1,14 +1,19 @@
 ---
-title: "Teaching experience 1"
+title: "Direct measurement of the spacial joint wavefunction of biphoton"
 collection: teaching
-type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+location: "USTC,Hefei"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+- Higher-dimensional degrees of freedom of photons can encode much more information than traditional qubits. However, the large dimensionality of these states, poses an intriguing challenge for their measurement. Based on the theory of weakvalue, this work proposed a solution to directly measuring the joint wavefunction of biphoton. 
+
+- Conducted extensive research on weak measurement, gaining understanding of weak values, weak measurements, projective measurements, and non-local measurements. 
+
+- Programmed simulation algorithm using Matlab, prove this solution theoretically.
+
+- Built a biphoton entanglement source based on SPDC process to test this solution empirically, gaining basic skills in optical platform operations.
+
+- Successfully extended the direct wavefunction measurement technique to non-local continuous variable systems, significantly improving measurement efficiency.
 
 Heading 1
 ======
