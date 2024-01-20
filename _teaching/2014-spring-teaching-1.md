@@ -1,6 +1,6 @@
 ---
 title: "Direct measurement of the spacial joint wavefunction of biphoton"
-collection: teaching
+collection: projects
 permalink: /teaching/2014-spring-teaching-1
 location: "USTC,Hefei"
 ---
@@ -14,5 +14,7 @@ location: "USTC,Hefei"
 - Built a biphoton entanglement source based on SPDC process to test this solution empirically, gaining basic skills in optical platform operations.
 
 - Successfully extended the direct wavefunction measurement technique to non-local continuous variable systems, significantly improving measurement efficiency.
+
+  
 
 
