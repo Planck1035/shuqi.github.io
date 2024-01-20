@@ -1,7 +1,17 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Direct measurement of the spacial joint wavefunction of biphoton"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+
+- Higher-dimensional degrees of freedom of photons can encode much more information than traditional qubits. However, the large dimensionality of these states, poses an intriguing challenge for their measurement. Based on the theory of weakvalue, this work proposed a solution to directly measuring the joint wavefunction of biphoton. 
+
+- Conducted extensive research on weak measurement, gaining understanding of weak values, weak measurements, projective measurements, and non-local measurements. 
+
+- Programmed simulation algorithm using Matlab, prove this solution theoretically.
+
+- Built a biphoton entanglement source based on SPDC process to test this solution empirically, gaining basic skills in optical platform operations.
+
+- Successfully extended the direct wavefunction measurement technique to non-local continuous variable systems, significantly improving measurement efficiency.
+
+![spdc](../images/spdcsource.png)
