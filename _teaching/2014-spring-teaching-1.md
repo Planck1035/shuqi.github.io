@@ -15,11 +15,4 @@ location: "USTC,Hefei"
 
 - Successfully extended the direct wavefunction measurement technique to non-local continuous variable systems, significantly improving measurement efficiency.
 
-Heading 1
-======
 
-Heading 2
-======
-
-Heading 3
-======
