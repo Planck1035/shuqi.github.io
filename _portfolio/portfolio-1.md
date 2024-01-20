@@ -3,7 +3,7 @@ title: "Direct measurement of the spacial joint wavefunction of biphoton"
 collection: portfolio
 ---
 
-[report](../files/Direct measurement.pdf)
+[report](../files/Direct_measurement.pdf)
 
 - Higher-dimensional degrees of freedom of photons can encode much more information than traditional qubits. However, the large dimensionality of these states, poses an intriguing challenge for their measurement. Based on the theory of weakvalue, this work proposed a solution to directly measuring the joint wavefunction of biphoton. 
 
@@ -15,4 +15,4 @@ collection: portfolio
 
 - Successfully extended the direct wavefunction measurement technique to non-local continuous variable systems, significantly improving measurement efficiency.
 
-![spdc](../images/exp.jpg)
+![spdc](../images/exp.png)
