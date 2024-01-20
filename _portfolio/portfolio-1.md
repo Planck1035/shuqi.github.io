@@ -10,7 +10,6 @@ collection: portfolio
 - Conducted extensive research on weak measurement, gaining understanding of weak values, weak measurements, projective measurements, and non-local measurements. 
 
 - Programmed simulation algorithm using Matlab, prove this solution theoretically.
-
 - Built a biphoton entanglement source based on SPDC process to test this solution empirically, gaining basic skills in optical platform operations.
 
 - Successfully extended the direct wavefunction measurement technique to non-local continuous variable systems, significantly improving measurement efficiency.
