@@ -12,5 +12,5 @@ I'm a third year undergraduate student from [School of Physics](https://en.physi
 
 I am very fortunate to be advised by [Prof. Xiaoye Xu](https://faculty.ustc.edu.cn/xuxiaoye) and [Prof. Xing Rong](https://en.lmmr.ustc.edu.cn/2017/0711/c13356a189309/page.htm). 
 
-You can find my CV here: [Shuqi Liu's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
+You can find my CV here: [Shuqi Liu's Curriculum Vitae](_pages/Curriculum_Vitae.pdf).
 
