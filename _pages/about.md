@@ -14,4 +14,4 @@ I am very fortunate to be advised by [Prof. Xiaoye Xu](https://faculty.ustc.edu.
 
 You can find my CV here: [Shuqi Liu's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
-[Email](shuqi@mail.ustc.edu.cn) / [Wechat](../images/wechat.jpg) 
+[Email](shuqi@mail.ustc.edu.cn) / [Wechat](../images/wechat.png) 
