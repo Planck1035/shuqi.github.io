@@ -1,6 +1,6 @@
 ---
 title: "Direct measurement of the spacial joint wavefunction of biphoton"
-collection: Projects
+collection: portfolio
 ---
 
 [report](../files/Direct_measurement.pdf)
